@@ -20,7 +20,7 @@ class ArrayFunctions {
    */
   sum(arr) {
     // Hint: use the reduce method
-    return arr;
+    return arr.reduce((sum, num)=>sum+num);
   }
 
   /**
