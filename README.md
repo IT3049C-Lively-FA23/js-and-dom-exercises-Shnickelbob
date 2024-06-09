@@ -6,16 +6,17 @@ JS and DOM Exercise
 Instructions to this assignment can be found [here](https://reedws.github.io/IT3049C/coursework/labs/js-and-dom-exercises/).
 
 - [x] update the assignment checks above to the correct link. - Done Automatically
-- [ ] update the assignment checks above to the correct link
-- [ ] All Unit tests passed.
-- [ ] filled out the self-evaluation.
-- [ ] filled out the self-reflection.
+- [x] update the assignment checks above to the correct link
+- [x] All Unit tests passed.
+- [x] filled out the self-evaluation.
+- [x] filled out the self-reflection.
 
 ## Self-Evaluation: 
 (You may base this on the number of exercises you were able to complete)
 how many points out of 20 do you deserve on this assignment:
-
+20 - 12 late pts = 8 pts
 ## Self-Reflection:
 <!-- What did you learn that you found interesting -->
-
+i learned more about dom and how to integrate html and javascript
 ### How long it took you to finish this?
+about an hour and a half.
